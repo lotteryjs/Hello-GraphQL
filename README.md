@@ -1,6 +1,6 @@
 # gqlgen-demo
 
-![gqlgen](https://graphql.org/img/logo.svg)
+<img src="https://graphql.org/img/logo.svg" alt="graphql" width="200" height="200">
 
 Type-safe GraphQL for Go
 
