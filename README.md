@@ -6,5 +6,5 @@
 
 [graphql.org](https://graphql.org/) | [graphql.cn](https://graphql.cn/)
 
-### refs
+### Refs
 [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
