@@ -1,6 +1,6 @@
 # GQLGen-Demo
 
-<img src="https://graphql.org/img/logo.svg" alt="graphql" width="200" height="200">
+<img src="https://graphql.org/img/logo.svg" alt="graphql" width="150" height="150">
 
 ### GraphQL
 GraphQL 是一个用于 API 的查询语言
