@@ -1,5 +1,7 @@
 # gqlgen-demo
+
 ![gqlgen](https://graphql.org/img/logo.svg)
+
 Type-safe GraphQL for Go
 
 # refs
