@@ -1,3 +1,4 @@
+//go:generate go run github.com/99designs/gqlgen -v
 package gqlgen_todos
 
 import (
