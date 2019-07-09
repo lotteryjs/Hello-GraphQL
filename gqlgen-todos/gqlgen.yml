@@ -12,6 +12,8 @@ model:
 resolver:
   filename: resolver.go
   type: Resolver
-models:
-  Todo:
-    model: github.com/lotteryjs/gqlgen-demo/gqlgen-todos.Todo
+autobind:
+ - github.com/lotteryjs/gqlgen-demo/gqlgen-todos
+#models:
+#  Todo:
+#    model: github.com/lotteryjs/gqlgen-demo/gqlgen-todos.Todo
