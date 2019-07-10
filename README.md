@@ -1,4 +1,4 @@
-# GQLGen-Demo
+# GraphQL
 
 <img src="https://graphql.org/img/logo.svg" alt="graphql" width="150" height="150">
 
