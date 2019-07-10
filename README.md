@@ -2,6 +2,10 @@
 
 <img src="https://graphql.org/img/logo.svg" alt="graphql" width="150" height="150">
 
+### GraphQL IDE
+
+[graphiql](https://github.com/graphql/graphiql) | [graphql-playground](https://github.com/prisma/graphql-playground)
+
 ### GraphQL
 GraphQL 是一个用于 API 的查询语言
 
